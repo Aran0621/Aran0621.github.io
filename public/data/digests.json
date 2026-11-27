@@ -40,6 +40,19 @@
         "collectedAt": "2026-11-25"
       },
       {
+        "id": "2026-11-24-guangzhui-xiaowei-hsc-gov",
+        "date": "2026-11-24",
+        "source": "怀柔科学城（官方）",
+        "sourceUrl": "https://hsc.beijing.gov.cn/hsc/ywdt8/zxdt72/2026112415463781234/index.shtml",
+        "score": 80,
+        "eventId": "guangzhui-xiaowei-launch",
+        "companies": [],
+        "title": "怀柔科学城官方发布：光锥交互仿生机器人「小唯」亮相，预售价半身版 6.98 万元起",
+        "summary": "怀柔科学城管理委员会官网报道，入驻企业光锥交互发布仿生情感交互机器人「小唯」：硅胶皮肤面部配合多自由度表情驱动，支持语音对话与情绪反馈，面向展陈、文旅与陪伴场景。报道披露预售价：半身版 6.98 万元、全身版 9.98 万元，并介绍其落地怀柔科学城城市客厅等展示场景的计划。",
+        "reason": "地方政府科学城官方渠道发布，含此前媒体报道未明确的半身/全身两档预售价格，为「小唯」事件提供官方背书与关键价格信息。",
+        "collectedAt": "2026-11-27"
+      },
+      {
         "id": "2026-11-24-lingyan-lyra-s1-diankeji",
         "date": "2026-11-24",
         "source": "电科技",
@@ -53,8 +66,8 @@
         "collectedAt": "2026-11-25"
       }
     ],
-    "eventCount": 2,
-    "itemCount": 2
+    "eventCount": 3,
+    "itemCount": 3
   },
   {
     "date": "2026-11-23",
