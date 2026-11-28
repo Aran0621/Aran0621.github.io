@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-11-25-realbotix-hospitality-pilot-gnw",
+    "date": "2026-11-25",
+    "source": "GlobeNewswire（Onconetix 官方稿）",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/11/25/3410183/0/en/onconetix-acquisition-target-realbotix-announces-expansion-into-ai-powered-hospitality-and-event-automation.html",
+    "score": 60,
+    "eventId": "realbotix-hospitality-pilot",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Onconetix 官方稿：收购标的 Realbotix 宣布酒店与活动自动化扩张，确认已签署收购 Realbotix LLC 最终协议",
+    "summary": "Onconetix（Nasdaq: ONCO）通过 GlobeNewswire 向股东转述收购标的 Realbotix 11 月 23 日的公告：Realbotix 扩展至 AI 驱动的酒店与活动自动化，与瑞典头部电信运营商合作的企业试点将于 11 月下旬部署两台 Series 1 桌面人形机器人，负责宾客签到与自动化服务工作流。稿件同时确认 Onconetix 近期已就收购 Realbotix Corp. 子公司 Realbotix LLC 签署最终协议（definitive agreement），收购仍在推进中。",
+    "reason": "同一事件聚簇新增收购方视角：确认对 Realbotix LLC 的收购已推进至最终协议阶段，相对 10 月过桥贷款公告是交易进度的实质性更新。",
+    "collectedAt": "2026-11-28"
+  },
+  {
     "id": "2026-11-25-lingyan-lyra-s1-itsdw",
     "date": "2026-11-25",
     "source": "IT时代网",
@@ -78,6 +93,21 @@
     "summary": "北京日报报道怀柔企业北京光锥交互科技有限公司 11 月 21 日在怀柔科学城具身智能创新发展研讨会暨光锥交互生态大会上发布交互型仿生情感机器人「小唯」。现场「小唯」身着古风汉服，仿真皮肤质感柔和、五官神态灵动，「站得越近越觉得逼真，你跟它说话，它会看着你回应，眼神和神态都跟着话题走」。创始人刘子康介绍，让面皮做表情时内部电极同步拉伸回弹是核心难点；CSDN 董事长蒋涛评价该产品「解决了拟真表情和仿生皮肤的核心问题，补上了机器人产业里很重要的一块短板」，陪伴型、情感交互类机器人尤其需要这种高拟真交互能力。现场公布预售价格：半身版 6.98 万元起，全身版 9.98 万元起。",
     "reason": "同一发布事件聚簇新增 A 级党报渠道，补充汉服造型现场观感、蒋涛行业评价与官方确认预售价，与已有科技日报、观点网稿件视角互补。",
     "collectedAt": "2026-11-25"
+  },
+  {
+    "id": "2026-11-23-realbotix-hospitality-pilot-yahoo",
+    "date": "2026-11-23",
+    "source": "Yahoo Finance（转 Business Wire 官方稿）",
+    "sourceUrl": "https://sg.finance.yahoo.com/news/realbotix-expands-ai-powered-hospitality-123000266.html",
+    "score": 66,
+    "eventId": "realbotix-hospitality-pilot",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Realbotix 官方：进军酒店与活动自动化，两台 Series 1 桌面机器人将服务瑞典电信商企业试点",
+    "summary": "Realbotix（TSX-V: XBOT）通过 Business Wire 发布官方新闻稿，宣布扩展至智能宾客服务、酒店与活动自动化领域，首发项目为与一家瑞典头部电信运营商合作的企业试点，定于 11 月下旬实施。试点将部署两台 Series 1 桌面人形机器人并接入企业活动管理系统，承担：自动签到（计算机视觉扫码、实时核验、胸牌打印）、对话式 AI 答疑（日程、嘉宾、场地等）、拟人互动（表情动作、自然语音与实时视觉注意力）、企业系统 API 集成、状态化工作流管理与员工接管机制，并支持定制 AI 人格（音色、行为、知识库与对话风格）。",
+    "reason": "赛道公司 Realbotix 从陪伴机器人向 B 端酒店/活动场景扩展的官方官宣，Series 1 产品线的首个企业级试点，S 级渠道转发官方稿。",
+    "collectedAt": "2026-11-28"
   },
   {
     "id": "2026-11-22-guangzhui-xiaowei-stdaily",

@@ -1311,6 +1311,24 @@
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
       {
+        "id": "2026-11-25-realbotix-hospitality-pilot-gnw",
+        "date": "2026-11-25",
+        "title": "Onconetix 官方稿：收购标的 Realbotix 宣布酒店与活动自动化扩张，确认已签署收购 Realbotix LLC 最终协议",
+        "source": "GlobeNewswire（Onconetix 官方稿）",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/11/25/3410183/0/en/onconetix-acquisition-target-realbotix-announces-expansion-into-ai-powered-hospitality-and-event-automation.html",
+        "score": 60,
+        "eventId": "realbotix-hospitality-pilot"
+      },
+      {
+        "id": "2026-11-23-realbotix-hospitality-pilot-yahoo",
+        "date": "2026-11-23",
+        "title": "Realbotix 官方：进军酒店与活动自动化，两台 Series 1 桌面机器人将服务瑞典电信商企业试点",
+        "source": "Yahoo Finance（转 Business Wire 官方稿）",
+        "sourceUrl": "https://sg.finance.yahoo.com/news/realbotix-expands-ai-powered-hospitality-123000266.html",
+        "score": 66,
+        "eventId": "realbotix-hospitality-pilot"
+      },
+      {
         "id": "2026-11-04-realbotix-series1-yahoo",
         "date": "2026-11-04",
         "title": "历史补录：Realbotix 将 Echo 人形机器人产品线更名 Series 1，规避商标风险",
